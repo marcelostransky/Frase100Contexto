@@ -9,7 +9,7 @@ return(
         <header>
             <img src={logoImg} alt="Frase 100 Contexto"></img>
             <span>
-                Bem vindo, Fulando
+                Bem vindo, Fulano
             </span>
             <Link className="button" to="/frases/nova">Cadastrar uma frase</Link>
             <button>

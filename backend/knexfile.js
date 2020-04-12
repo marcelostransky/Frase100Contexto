@@ -6,7 +6,7 @@ module.exports = {
             user: 'usr_avalia',  
             password: 'admSP*98-#',  
             server: '10.0.30.5',  
-            database: 'Avalia',
+            database: 'TiLegal',
             options: {
                 enableArithAbort : true
             }  
