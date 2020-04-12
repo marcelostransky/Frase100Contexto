@@ -1,4 +1,5 @@
 const express = require('express');
+const authenticated = require('./middleware/authenticated');
 
 const MensagemController = require('./src/controller/MensagemContrller');
 const UsuarioController = require('./src/controller/UsuarioController');
